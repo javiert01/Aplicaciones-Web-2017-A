@@ -1,0 +1,45 @@
+/*body {
+        background-color: firebrick;
+        color: black;
+    }
+    h1 {
+        background-color: darkblue;
+        color: whitesmoke;
+    }
+    h3 {
+        background-color: purple;
+        color: green;
+    }
+    div{
+        background-color: black;
+        color: wheat;
+    }*/
+#uno {
+    background-color: darkblue;
+    color: firebrick;
+}
+h1 {
+    background-color: firebrick;
+    color:darkblue;
+}
+button
+{
+    background-color: aquamarine;
+    color: navy;
+}
+.boton-cuidado {
+    background-color: #b26f14;
+    color: black;
+}
+.boton-exito {
+    background-color: green;
+    color:navy;
+}
+button:hover{
+    background-color: yellow;
+    color: blueviolet;
+}
+button:focus {
+    background-color: white;
+    color:black;
+}
